@@ -1,0 +1,70 @@
+{
+  "quiz_attempts": {
+    "c2_q01": {
+      "correct": 0,
+      "wrong": 2,
+      "last": false,
+      "time": "2026-10-30 10:56:31"
+    },
+    "c1_q01": {
+      "correct": 1,
+      "wrong": 0,
+      "last": true,
+      "time": "2026-10-30 10:40:41"
+    },
+    "c2_q165": {
+      "correct": 0,
+      "wrong": 1,
+      "last": false,
+      "time": "2026-10-30 10:43:16"
+    },
+    "c2_q25": {
+      "correct": 0,
+      "wrong": 1,
+      "last": false,
+      "time": "2026-10-30 10:43:16"
+    },
+    "c2_q84": {
+      "correct": 0,
+      "wrong": 1,
+      "last": false,
+      "time": "2026-10-30 10:43:16"
+    },
+    "c2_q19": {
+      "correct": 0,
+      "wrong": 1,
+      "last": false,
+      "time": "2026-10-30 10:43:16"
+    },
+    "c2_q122": {
+      "correct": 0,
+      "wrong": 1,
+      "last": false,
+      "time": "2026-10-30 10:43:16"
+    },
+    "c2_q82": {
+      "correct": 0,
+      "wrong": 1,
+      "last": false,
+      "time": "2026-10-30 10:43:16"
+    }
+  },
+  "wrong_ids": [
+    "c2_q01",
+    "c2_q165",
+    "c2_q25",
+    "c2_q84",
+    "c2_q19",
+    "c2_q122",
+    "c2_q82"
+  ],
+  "quiz_history": [
+    {
+      "time": "2026-10-30 10:43:16",
+      "scope": "章节随机测验",
+      "total": 6,
+      "score": 0
+    }
+  ],
+  "settings": {}
+}

@@ -1,0 +1,16 @@
+﻿python : 2026-10-30 16:43:29.778 Uvicorn server started on 0.0.0.0:8533
+所在位置 行:1 字符: 16
++ ...  d:\安全生产题库; python -m streamlit run app.py --server.headless true --s ...
++                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (2026-10-30 16:4...on 0.0.0.0:8533 
+   :String) [], RemoteException
+    + FullyQualifiedErrorId : NativeCommandError
+ 
+
+  You can now view your Streamlit app in your browser.
+
+  Local URL: http://localhost:8533
+  Network URL: http://192.168.43.147:8533
+  External URL: http://223.104.77.169:8533
+
+  Stopping...

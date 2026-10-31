@@ -1,0 +1,14 @@
+# Python 缓存文件
+__pycache__/
+
+# 运行日志
+_streamlit.log
+
+# 冒烟测试截图
+smoke_*.png
+
+# 本地答题数据（云端/他人无需，且含个人记录）
+reader_data.json
+
+# 本地机密配置（绝不上传）
+.streamlit/secrets.toml
